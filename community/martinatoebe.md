@@ -13,13 +13,13 @@ I am a System Analysis & Development student with professional experience as Sof
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tina016&layout=compact&bg_color=013&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Programming Skills
-![HTML](https://img.shields.io/badge/HTML-red)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
-![CSS](https://img.shields.io/badge/CSS-blue)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
-![JS](https://img.shields.io/badge/JavaScript-yellow)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-orange)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)![Basic](https://img.shields.io/badge/Basic-red)
+![HTML](https://img.shields.io/badge/HTML-darkblue)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
+![CSS](https://img.shields.io/badge/CSS-darkblue)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
+![JS](https://img.shields.io/badge/JavaScript-darkblue)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-darkblue)![Intermediate](https://img.shields.io/badge/Intermediate-yellow)
+![React](https://img.shields.io/badge/React-darkblue)![Basic](https://img.shields.io/badge/Basic-red)
 ![PHP](https://img.shields.io/badge/PHP-darkblue)![Basic](https://img.shields.io/badge/Basic-red)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)![Basic](https://img.shields.io/badge/Basic-red)
+![Python](https://img.shields.io/badge/Python-darkblue)![Basic](https://img.shields.io/badge/Basic-red)
 
 ### Soft Skills
 ![Communicative](https://img.shields.io/badge/Communicative-blue)
